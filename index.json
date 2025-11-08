@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Furniture Studio",
-      "image": "/evernight.gif",
+      "image": "/furniture.png",
       "year": 2025,
       "technologies": ["Tailwind CSS", "React.js", "Redux Toolkit"],
       "description": "Inspired by simplicity. Built for living. Our furniture blends modern aesthetics with lasting quality — crafted to make every space feel like home.",
@@ -15,6 +15,7 @@
     {
       "id": 2,
       "title": "Training Studio",
+      "image": "/gym.png",
       "year": 2025,
       "technologies": ["Tailwind CSS", "React.js"],
       "description": "The Training Studio website is a modern, one-page fitness landing site designed to showcase gym programs and motivate visitors to start their fitness journey.",
@@ -23,20 +24,11 @@
         "sourceCode": "Source Code"
       }
     },
+
     {
       "id": 3,
-      "title": "Product List With Cart",
-      "year": 2025,
-      "technologies": ["Tailwind CSS", "HTML", "CSS", "React.js"],
-      "description": "A responsive product list page built with React, featuring a fully functional shopping cart.",
-      "links": {
-        "demo": "Demo",
-        "sourceCode": "Source Code"
-      }
-    },
-    {
-      "id": 4,
       "title": "Event Hub",
+      "image": "/event-hub.png",
       "year": 2025,
       "technologies": ["Tailwind CSS", "React.js"],
       "description": "Event Hub is where ideas turn into events. Create your own gatherings, discover activities by category, and find exactly what you need with a smart search feature.",
@@ -46,8 +38,9 @@
       }
     },
     {
-      "id": 5,
+      "id": 4,
       "title": "Fylo Landing Page",
+      "image": "/fylo.png",
       "year": 2025,
       "technologies": ["HTML", "Tailwind CSS", "React.js"],
       "description": "Fylo lets you store, share, and collaborate — easily, privately, and with full control.",
