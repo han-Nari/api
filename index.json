@@ -46,7 +46,7 @@
       "title": "Fylo Landing Page",
       "image": "/fylo.png",
       "year": 2025,
-      "technologies": ["HTML", "Tailwind CSS", "React.js"],
+      "technologies": ["HTML", "CSS"],
       "description": "Fylo lets you store, share, and collaborate — easily, privately, and with full control.",
       "links": {
         "demo": "Demo",
