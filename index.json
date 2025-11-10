@@ -9,8 +9,8 @@
       "technologies": ["Tailwind CSS", "React.js", "Redux Toolkit"],
       "description": "Inspired by simplicity. Built for living. Our furniture blends modern aesthetics with lasting quality — crafted to make every space feel like home.",
       "links": {
-        "demo": "Demo",
-        "sourceCode": "Source Code"
+        "demo": "https://han-nari.github.io/furniture/",
+        "sourceCode": "https://github.com/han-Nari/furniture"
       }
     },
     {
@@ -22,8 +22,8 @@
       "technologies": ["Tailwind CSS", "React.js"],
       "description": "The Training Studio website is a modern, one-page fitness landing site designed to showcase gym programs and motivate visitors to start their fitness journey.",
       "links": {
-        "demo": "Demo",
-        "sourceCode": "Source Code"
+        "demo": "https://han-nari.github.io/gymTraining/",
+        "sourceCode": "https://github.com/han-Nari/gymTraining"
       }
     },
 
@@ -36,8 +36,8 @@
       "technologies": ["Tailwind CSS", "React.js"],
       "description": "Event Hub is where ideas turn into events. Create your own gatherings, discover activities by category, and find exactly what you need with a smart search feature.",
       "links": {
-        "demo": "Demo",
-        "sourceCode": "Source Code"
+        "demo": "https://han-nari.github.io/event-hub/",
+        "sourceCode": "https://github.com/han-Nari/event-hub"
       }
     },
     {
@@ -49,8 +49,8 @@
       "technologies": ["HTML", "CSS"],
       "description": "Fylo lets you store, share, and collaborate — easily, privately, and with full control.",
       "links": {
-        "demo": "Demo",
-        "sourceCode": "Source Code"
+        "demo": "https://han-nari.github.io/front-end-challenge02/",
+        "sourceCode": "https://github.com/han-Nari/front-end-challenge02"
       }
     }
   ]
