@@ -48,4 +48,9 @@
       "technologies": ["HTML", "CSS"],
       "description": "Fylo lets you store, share, and collaborate — easily, privately, and with full control.",
       "links": [
-        { "label": "Demo", "url": "https://h
+        { "label": "Demo", "url": "https://han-nari.github.io/front-end-challenge02/" },
+        { "label": "Source Code", "url": "https://github.com/han-Nari/front-end-challenge02" }
+      ]
+    }
+  ]
+}
