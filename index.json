@@ -2,6 +2,7 @@
   "projects": [
     {
       "id": 1,
+      "icon": "/furni.png",
       "title": "Furniture Studio",
       "image": "/furniture.png",
       "year": 2025,
@@ -14,6 +15,7 @@
     },
     {
       "id": 2,
+      "icon": "/workout.png",
       "title": "Training Studio",
       "image": "/gym.png",
       "year": 2025,
@@ -27,6 +29,7 @@
 
     {
       "id": 3,
+      "icon": "/events.png",
       "title": "Event Hub",
       "image": "/event-hub.png",
       "year": 2025,
@@ -39,6 +42,7 @@
     },
     {
       "id": 4,
+      "icon": "/landing.png",
       "title": "Fylo Landing Page",
       "image": "/fylo.png",
       "year": 2025,
