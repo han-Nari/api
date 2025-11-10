@@ -8,10 +8,10 @@
       "year": 2025,
       "technologies": ["Tailwind CSS", "React.js", "Redux Toolkit"],
       "description": "Inspired by simplicity. Built for living. Our furniture blends modern aesthetics with lasting quality — crafted to make every space feel like home.",
-      "links": {
-        "demo": "https://han-nari.github.io/furniture/",
-        "sourceCode": "https://github.com/han-Nari/furniture"
-      }
+      "links": [
+        { "label": "Demo", "url": "https://han-nari.github.io/furniture/" },
+        { "label": "Source Code", "url": "https://github.com/han-Nari/furniture" }
+      ]
     },
     {
       "id": 2,
@@ -21,12 +21,11 @@
       "year": 2025,
       "technologies": ["Tailwind CSS", "React.js"],
       "description": "The Training Studio website is a modern, one-page fitness landing site designed to showcase gym programs and motivate visitors to start their fitness journey.",
-      "links": {
-        "demo": "https://han-nari.github.io/gymTraining/",
-        "sourceCode": "https://github.com/han-Nari/gymTraining"
-      }
+      "links": [
+        { "label": "Demo", "url": "https://han-nari.github.io/gymTraining/" },
+        { "label": "Source Code", "url": "https://github.com/han-Nari/gymTraining" }
+      ]
     },
-
     {
       "id": 3,
       "icon": "/events.png",
@@ -35,10 +34,10 @@
       "year": 2025,
       "technologies": ["Tailwind CSS", "React.js"],
       "description": "Event Hub is where ideas turn into events. Create your own gatherings, discover activities by category, and find exactly what you need with a smart search feature.",
-      "links": {
-        "demo": "https://han-nari.github.io/event-hub/",
-        "sourceCode": "https://github.com/han-Nari/event-hub"
-      }
+      "links": [
+        { "label": "Demo", "url": "https://han-nari.github.io/event-hub/" },
+        { "label": "Source Code", "url": "https://github.com/han-Nari/event-hub" }
+      ]
     },
     {
       "id": 4,
@@ -48,10 +47,5 @@
       "year": 2025,
       "technologies": ["HTML", "CSS"],
       "description": "Fylo lets you store, share, and collaborate — easily, privately, and with full control.",
-      "links": {
-        "demo": "https://han-nari.github.io/front-end-challenge02/",
-        "sourceCode": "https://github.com/han-Nari/front-end-challenge02"
-      }
-    }
-  ]
-}
+      "links": [
+        { "label": "Demo", "url": "https://h
